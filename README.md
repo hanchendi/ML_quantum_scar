@@ -1,4 +1,4 @@
-Data_wavefunction: Contains some data for eigenstates in Heart and African billiards. For the whole dataset please contact with the author.
+Data_wavefunction: Contains some data for eigenstates in Heart and African billiards. For the whole dataset please contact the author.
 
 Machine_learning: Contains python code for machine learning algorithm. This code follows https://openai.com/blog/reptile/
 
